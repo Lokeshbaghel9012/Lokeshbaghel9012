@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Lokeshbaghel9012/Lokeshbaghel9012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lokeshbaghel9012/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
